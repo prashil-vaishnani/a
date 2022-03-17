@@ -1,0 +1,30 @@
+.header {
+  height: 80px;
+  background-color: black;
+}
+.mainWrapper2 {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.userDetailsWrapper {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+.userImg {
+  margin-right: 20px;
+}
+.userImg img {
+  width: 60px;
+  border-radius: 94px;
+}
+.userDetails {
+  color: green;
+}
+.logoutBtnWrapper button {
+  padding: 6px 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
